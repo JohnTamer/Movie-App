@@ -1,7 +1,7 @@
 import "./App.css";
 import Banner from "./components/banner/banner";
 import Row from "./components/row/row";
-import requests from "./request";
+import requests from "./services/request";
 function App() {
   return (
     <div className="App">
